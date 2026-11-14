@@ -1,0 +1,16 @@
+{
+  "defaultPreset": "lobby",
+  "c_GrozaSR0101_cloth1_d.png": {
+    "normal": "maps/c_GrozaSR0101_cloth1_d_n.png"
+  },
+  "c_GrozaSR0101_cloth2_d.png": {
+    "normal": "maps/c_GrozaSR0101_cloth2_d_n.png"
+  },
+  "stockingMode": "alpha",
+  "stockingSkinTexture": "socks_skin_d.png",
+  "materialOverrides": {
+    "Socks": {
+      "diffuse": "socks_d.png"
+    }
+  }
+}

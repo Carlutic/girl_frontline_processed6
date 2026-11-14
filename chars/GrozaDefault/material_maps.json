@@ -1,0 +1,12 @@
+{
+  "defaultPreset": "lobby",
+  "c_grozaSR01_slg_body_d.png": {
+    "normal": "maps/c_grozaSR01_slg_body_d_n.png"
+  },
+  "c_GrozaSR01_slg_cloth_d.png": {
+    "normal": "maps/c_GrozaSR01_slg_cloth_d_n.png"
+  },
+  "c_GrozaSR01_slg_clothin_d.png": {
+    "normal": "maps/c_GrozaSR01_slg_clothin_d_n.png"
+  }
+}

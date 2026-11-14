@@ -1,0 +1,16 @@
+{
+  "defaultPreset": "lobby",
+  "c_jiangyussr01_slg_cloth2.png": {
+    "normal": "maps/c_jiangyussr01_slg_cloth2_n.png"
+  },
+  "c_jiangyussr01_slg_cloth1_da.png": {
+    "normal": "maps/c_jiangyussr01_slg_cloth1_da_n.png"
+  },
+  "stockingMode": "alpha",
+  "stockingSkinTexture": "socks_skin_d.png",
+  "materialOverrides": {
+    "Socks": {
+      "diffuse": "socks_d.png"
+    }
+  }
+}

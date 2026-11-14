@@ -1,0 +1,16 @@
+{
+  "defaultPreset": "lobby",
+  "c_MosinnagantSSR01_slg_cloth2_d.png": {
+    "normal": "maps/c_MosinnagantSSR01_slg_cloth2_d_n.png"
+  },
+  "c_MosinnagantSSR01_slg_cloth1_d.png": {
+    "normal": "maps/c_MosinnagantSSR01_slg_cloth1_d_n.png"
+  },
+  "stockingMode": "alpha",
+  "stockingSkinTexture": "socks_skin_d.png",
+  "materialOverrides": {
+    "Socks": {
+      "diffuse": "socks_d.png"
+    }
+  }
+}

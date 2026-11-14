@@ -1,0 +1,19 @@
+{
+  "defaultPreset": "lobby",
+  "c_KseniaSR01_slg_cloth1_d.png": {
+    "normal": "maps/c_KseniaSR01_slg_cloth1_d_n.png"
+  },
+  "c_KseniaSR01_slg_cloth2_d.png": {
+    "normal": "maps/c_KseniaSR01_slg_cloth2_d_n.png"
+  },
+  "c_KseniaSR01_slg_cloth1_d2.png": {
+    "normal": "maps/c_KseniaSR01_slg_cloth1_d2_n.png"
+  },
+  "stockingMode": "alpha",
+  "stockingSkinTexture": "socks_skin_d.png",
+  "materialOverrides": {
+    "Socks": {
+      "diffuse": "socks_d.png"
+    }
+  }
+}

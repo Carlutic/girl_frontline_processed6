@@ -1,0 +1,22 @@
+{
+  "defaultPreset": "lobby",
+  "c_GrozaSR0105_slg_body_d.png": {
+    "normal": "maps/c_GrozaSR0105_slg_body_d_n.png"
+  },
+  "c_GrozaSR0105_slg_cloth_da.png": {
+    "normal": "maps/c_GrozaSR0105_slg_cloth_da_n.png"
+  },
+  "c_grozasr0105_slg_cloth2_da.png": {
+    "normal": "maps/c_grozasr0105_slg_cloth2_da_n.png"
+  },
+  "cw_KseniaSR01_WL_d.png": {
+    "normal": "maps/cw_KseniaSR01_WL_d_n.png"
+  },
+  "stockingMode": "alpha",
+  "stockingSkinTexture": "socks_skin_d.png",
+  "materialOverrides": {
+    "Socks": {
+      "diffuse": "socks_d.png"
+    }
+  }
+}

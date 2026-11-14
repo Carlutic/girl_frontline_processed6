@@ -1,0 +1,57 @@
+{
+  "defaultPreset": "lobby",
+  "body_d.png": {
+    "normal": "maps/body_d_n.png"
+  },
+  "c_LoreleySSR0101_slg_p3_body2_da.png": {
+    "normal": "maps/c_LoreleySSR0101_slg_p3_body2_da_n.png"
+  },
+  "c_LoreleySSR0101_slg_p2_body2_da.png": {
+    "normal": "maps/c_LoreleySSR0101_slg_p2_body2_da_n.png"
+  },
+  "c_LoreleySSR0101_slg_zhijia_d.png": {
+    "normal": "maps/c_LoreleySSR0101_slg_zhijia_d_n.png"
+  },
+  "c_LoreleySSR0101_slg_p1_head_d.png": {
+    "normal": "maps/c_LoreleySSR0101_slg_p1_head_d_n.png"
+  },
+  "c_LoreleySSR0101_slg_p3_head_d.png": {
+    "normal": "maps/c_LoreleySSR0101_slg_p3_head_d_n.png"
+  },
+  "c_LoreleySSR0101_slg_p1_cloth2_da.png": {
+    "normal": "maps/c_LoreleySSR0101_slg_p1_cloth2_da_n.png"
+  },
+  "c_LoreleySSR0101_slg_P2_head_d.png": {
+    "normal": "maps/c_LoreleySSR0101_slg_P2_head_d_n.png"
+  },
+  "c_LoreleySSR0101_slg_p1_cloth1_da.png": {
+    "normal": "maps/c_LoreleySSR0101_slg_p1_cloth1_da_n.png"
+  },
+  "c_LoreleySSR0101_slg_p1_cloth3_da.png": {
+    "normal": "maps/c_LoreleySSR0101_slg_p1_cloth3_da_n.png"
+  },
+  "c_LoreleySSR0101_slg_p2_cloth1_da.png": {
+    "normal": "maps/c_LoreleySSR0101_slg_p2_cloth1_da_n.png"
+  },
+  "c_LoreleySSR0101_slg_p3_cloth1_d.png": {
+    "normal": "maps/c_LoreleySSR0101_slg_p3_cloth1_d_n.png"
+  },
+  "c_LoreleySSR0101_slg_p1_body_d.png": {
+    "normal": "maps/c_LoreleySSR0101_slg_p1_body_d_n.png"
+  },
+  "c_LoreleySSR0101_slg_p2_body1_d.png": {
+    "normal": "maps/c_LoreleySSR0101_slg_p2_body1_d_n.png"
+  },
+  "c_LoreleySSR0101_slg_p3_body1_d.png": {
+    "normal": "maps/c_LoreleySSR0101_slg_p3_body1_d_n.png"
+  },
+  "c_LoreleySSR0101_slg_hair_d.png": {
+    "normal": "maps/c_LoreleySSR0101_slg_hair_d_n.png"
+  },
+  "c_LoreleySSR0101_slg_cloth1_da.png": {
+    "normal": "maps/c_LoreleySSR0101_slg_cloth1_da_n.png"
+  },
+  "c_LoreleySSR0101_slg_cloth2_d.png": {
+    "normal": "maps/c_LoreleySSR0101_slg_cloth2_d_n.png"
+  }
+}
